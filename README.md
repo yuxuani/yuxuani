@@ -1,4 +1,4 @@
-### Hi there, I'm Yuxuan!👋
+### Hi, I'm Yuxuan!👋
 - ⌨️ Code for Fun
 - 🤔 AI for Good
 - 📚 Learn for Growth
