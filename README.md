@@ -1,6 +1,6 @@
 ### Hi there, I'm Yuxuan!👋
 - ⌨️ Code for Fun
-- 🤔 Study AI for Good
+- 🤔 AI for Good
 - 📚 Learn for Growth
 - 🏃‍♀️ Run for Health
 - 🩷 Dream for Love
