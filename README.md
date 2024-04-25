@@ -5,7 +5,7 @@
 - 🏃‍♀️ Run for Health
 - ❤️ Dream for Love
 
-To know more about me, please visit my website: [yuxuani.github.io](https://yuxuani.github.io)
+To know more about me, please visit my website: [yuxuani.github.io](https://yuxuani.github.io).😉
 <!--
 **yuxuani/yuxuani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
