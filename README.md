@@ -3,7 +3,7 @@
 - 🤔 AI for Good
 - 📚 Learn for Growth
 - 🏃‍♀️ Run for Health
-- 🩷 Dream for Love
+- ❤️ Dream for Love
 
 To know more about me, please visit my website: [yuxuani.github.io](https://yuxuani.github.io)
 <!--
